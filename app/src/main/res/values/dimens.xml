@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_regular">textintro</dimen>
+    <dimen name="text_heading">text_intro</dimen>
+    <dimen name="margin_wide">donut</dimen>
+</resources>
