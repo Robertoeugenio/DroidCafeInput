@@ -16,4 +16,8 @@
     <string name="froyo_is_premium_self_serve_frozen_yogurt">FroYo is premium self-serve frozen yogurt.</string>
     <string name="ice_cream_sandwiches">ice crem</string>
 
+    <string name="action_order_message">You selected Order.</string>
+    <string name="action_status_message">You selected Status.</string>
+    <string name="action_favorites_message">You selected Favorites.</string>
+    <string name="action_contact_message">You selected Contact.</string>
 </resources>
